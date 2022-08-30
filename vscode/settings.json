@@ -1,0 +1,100 @@
+{
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "editor.fontFamily": "Fira Code Medium, monospace",
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+
+  "editor.minimap.enabled": false,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Aura Soft Dark",
+  "workbench.startupEditor": "none",
+ 
+  "window.zoomLevel": -0.5,
+
+  "files.autoSave": "afterDelay",
+  "files.eol": "\n",
+
+  "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+  "terminal.integrated.defaultProfile.osx": "/bin/zsh",
+  "terminal.integrated.defaultProfile.linux": "/bin/zsh",
+  "terminal.integrated.fontFamily": "Fira Code Medium",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "Ubuntu (WSL)": {
+      "path": "C:\\Windows\\System32\\wsl.exe",
+      "args": [ "-d", "Ubuntu" ]
+    }
+  },
+
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+
+  "gitlens.codeLens.enabled": false,
+  "gitlens.statusBar.enabled": false,
+
+  "rpc.appName": "Visual Studio Code",
+  "rpc.buttonActiveLabel": "Meu Repositorio",
+  "rpc.buttonEnabled": true,
+  "rpc.buttonInactiveUrl": "https://github.com/pedrx07",
+  "rpc.detailsDebugging": "📄 {file_name}",
+  "rpc.detailsViewing": "💼 {workspace} {problems}",
+  "rpc.largeImage": "Editando {LANG}",
+  "rpc.largeImageIdling": "Ausente",
+  "rpc.lowerDetailsDebugging": "💼 {workspace}",
+  "rpc.lowerDetailsNoWorkspaceFound": "Nothing",
+  "rpc.lowerDetailsViewing": "📄 Lendo {file_name}",
+  "rpc.problemsText": "- {problemsCount} problemas",
+  "rpc.lowerDetailsEditing": "📄 {file_name} - {current_line} de {current_column}",
+  "rpc.detailsEditing": "💼 {workspace} {problems}",
+  "rpc.lowerDetailsIdling": "Ausente",
+
+  "material-icon-theme.folders.associations": {
+    "repositories": "mappings",
+    "http": "container",
+    "migrations": "tools",
+    "modules": "components",
+    "implementations": "core",
+    "dtos": "typescript",
+    "fakes": "mock",
+    "websockets": "pipe",
+    "protos": "pipe",
+    "grpc": "pipe",
+    "providers": "include",
+    "subscribers": "messages",
+    "useCases": "controller",
+    "kafka": "scripts",
+    "mappers": "meta",
+    "_shared": "shared",
+    "eslint-config": "tools",
+    "ormconfig.json": "database",
+    "tsconfig.json": "tune",
+    "*.proto": "3d",
+    "*.webpack.js": "webpack",
+    "dotenv": "tune",
+    "infra": "app",
+    "entities": "class",
+    "entity": "class",
+    "domain": "class",
+    "schemas": "class",
+    "typeorm": "database",
+    "application": "app"
+  }
+}
