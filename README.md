@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo **Gadriel Herique** [![wakatime](https://wakatime.com/badge/user/225e1431-3ac6-40b6-9d39-4a2646df4193.svg)](https://wakatime.com/@225e1431-3ac6-40b6-9d39-4a2646df4193)
 
-<img src="Avatar.gif" min-width="400px" max-width="400px" width="370px" align="right" alt="My Avatar">
+<img src="Avatar.gif" min-width="400px" max-width="400px" width="330px" align="right" alt="My Avatar">
 
 Sou um profissional dedicado com uma paixão inabalável pela programação. :heart:
 
