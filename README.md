@@ -1,6 +1,6 @@
-<img src="Avatar.gif" min-width="400px" max-width="400px" width="350px" align="right" alt="My Avatar">
-
 ## 👋 Olá, me chamo **Gadriel Herique** [![wakatime](https://wakatime.com/badge/user/225e1431-3ac6-40b6-9d39-4a2646df4193.svg)](https://wakatime.com/@225e1431-3ac6-40b6-9d39-4a2646df4193)
+
+<img src="Avatar.gif" min-width="400px" max-width="400px" width="370px" align="right" alt="My Avatar">
 
 Sou um profissional dedicado com uma paixão inabalável pela programação. :heart:
 
@@ -8,9 +8,9 @@ Estou constantemente buscando me aperfeiçoar e evoluir como sempre em busca de 
 
 Embora admita ser um pouco ansioso e estressado, nada supera o amor e a paixão que tenho pelo meu trabalho diário e acredito que isso é parte do processo de crescimento e evolução em minha carreira, com 3 anos de experiência no campo, atualmente meu foco sendo **Typescript/NodeJS** como **Desenvolvedor Backend**.
 
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=gadrielts&show_icons=true&theme=dracula&count_private=true&hide_border=true&locale=pt-br"/>
-
 ## :man_technologist: **Linguagens e frameworks**
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=gadrielts&show_icons=true&theme=dracula&count_private=true&hide_border=true&locale=pt-br"/>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -19,9 +19,9 @@ Embora admita ser um pouco ansioso e estressado, nada supera o amor e a paixão 
 
 <br>
 
+## 💼 **Ferramentas**
 <img height="173em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadrielts&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
 
-## 💼 **Ferramentas**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
@@ -37,4 +37,4 @@ Embora admita ser um pouco ansioso e estressado, nada supera o amor e a paixão 
 
 <br>
 
-"*Não desista, por mais difícil que seja, no final vale a pena. Você escolheu uma jornada desafiadora, mas extremamente recompensadora. Aprender a codificar pode ser intimidador, mas é uma habilidade valiosa que pode ser aplicada a muitas áreas da vida e lhe permitir realizar coisas incríveis. Lembre-se de sempre manter a persistência e a paixão pelo que você está fazendo. Esteja aberto a novas ideias e ao aprendizado constante. Com o tempo, você se tornará mais confiante e habilidoso, e verá todo o seu esforço ser recompensado*" :heart:
+"*Não desista, por mais difícil que seja, no final vale a pena. Você escolheu uma jornada desafiadora, mas extremamente recompensadora. Aprender a codificar pode ser intimidador, mas é uma habilidade valiosa que pode ser aplicada a muitas áreas da vida e lhe permitir realizar coisas incríveis. Lembre-se de sempre manter a persistência e a paixão pelo que você está fazendo. Esteja aberto a novas ideias e ao aprendizado constante. Com o tempo, você se tornará mais confiante e habilidoso, e verá todo o seu esforço ser recompensado. Desejo Boa sorte!*" :heart:
