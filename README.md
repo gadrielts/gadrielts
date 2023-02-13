@@ -1,4 +1,4 @@
-<img src="Avatar.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="My Avatar">
+<img src="Avatar.gif" min-width="400px" max-width="400px" width="350px" align="right" alt="My Avatar">
 
 ## 👋 Olá, me chamo **Gadriel Herique** [![wakatime](https://wakatime.com/badge/user/225e1431-3ac6-40b6-9d39-4a2646df4193.svg)](https://wakatime.com/@225e1431-3ac6-40b6-9d39-4a2646df4193)
 
@@ -37,4 +37,4 @@ Embora admita ser um pouco ansioso e estressado, nada supera o amor e a paixão 
 
 <br>
 
-"*Não desista, por mais difícil que seja, no final vale a pena. Você escolheu uma jornada desafiadora, mas extremamente recompensadora. Aprender a codificar pode ser intimidador, mas é uma habilidade valiosa que pode ser aplicada a muitas áreas da vida e lhe permitir realizar coisas incríveis. Lembre-se de sempre manter a persistência e a paixão pelo que você está fazendo. Esteja aberto a novas ideias e ao aprendizado constante. Com o tempo, você se tornará mais confiante e habilidoso, e verá todo o seu esforço ser recompensado. Desejo boa sorte!*" :heart:
+"*Não desista, por mais difícil que seja, no final vale a pena. Você escolheu uma jornada desafiadora, mas extremamente recompensadora. Aprender a codificar pode ser intimidador, mas é uma habilidade valiosa que pode ser aplicada a muitas áreas da vida e lhe permitir realizar coisas incríveis. Lembre-se de sempre manter a persistência e a paixão pelo que você está fazendo. Esteja aberto a novas ideias e ao aprendizado constante. Com o tempo, você se tornará mais confiante e habilidoso, e verá todo o seu esforço ser recompensado*" :heart:
