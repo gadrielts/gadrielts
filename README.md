@@ -1,15 +1,15 @@
-## 👋 Olá, me chamo **Gadriel Herique** [![wakatime](https://wakatime.com/badge/user/225e1431-3ac6-40b6-9d39-4a2646df4193.svg)](https://wakatime.com/@225e1431-3ac6-40b6-9d39-4a2646df4193)
+## 👋 Hello, I'm **Gadriel Herique** [![wakatime](https://wakatime.com/badge/user/225e1431-3ac6-40b6-9d39-4a2646df4193.svg)](https://wakatime.com/@225e1431-3ac6-40b6-9d39-4a2646df4193)
 
 <img src="Avatar.gif" min-width="400px" max-width="400px" width="330px" align="right" alt="My Avatar">
 
-Sou um profissional dedicado com uma paixão inabalável pela programação. :heart:
+I'm a dedicated professional with an unwavering passion for programming. ❤️
 
-Estou constantemente buscando me aperfeiçoar e evoluir como sempre em busca de novos desafios e oportunidades.
+I'm constantly seeking to improve and evolve, always on the lookout for new challenges and opportunities.
 
-Embora admita ser um pouco ansioso e estressado, nada supera o amor e a paixão que tenho pelo meu trabalho diário e acredito que isso é parte do processo de crescimento e evolução em minha carreira, com 3 anos de experiência no campo, atualmente meu foco sendo **Typescript/NodeJS** como **Desenvolvedor Backend**.
+While I admit to being a bit anxious and stressed at times, nothing beats the love and passion I have for my daily work, and I believe that's part of the growth and evolution process in my career. With 3 years of experience in the field, my current focus is on Typescript/NodeJS as a Backend Developer.
 
-## :man_technologist: **Linguagens e frameworks**
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=gadrielts&show_icons=true&theme=dracula&count_private=true&hide_border=true&locale=pt-br"/>
+## :man_technologist: **Languages and frameworks**
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=gadrielts&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,7 +19,7 @@ Embora admita ser um pouco ansioso e estressado, nada supera o amor e a paixão 
 
 <br>
 
-## 💼 **Ferramentas**
+## 💼 **Tools**
 <img height="173em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadrielts&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -31,10 +31,10 @@ Embora admita ser um pouco ansioso e estressado, nada supera o amor e a paixão 
 
 <br>
 
-## 🎲 **Banco de Dados**
+## 🎲 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br>
 
-"*Não desista, por mais difícil que seja, no final vale a pena. Você escolheu uma jornada desafiadora, mas extremamente recompensadora. Aprender a codificar pode ser intimidador, mas é uma habilidade valiosa que pode ser aplicada a muitas áreas da vida e lhe permitir realizar coisas incríveis. Lembre-se de sempre manter a persistência e a paixão pelo que você está fazendo. Esteja aberto a novas ideias e ao aprendizado constante. Com o tempo, você se tornará mais confiante e habilidoso, e verá todo o seu esforço ser recompensado. Desejo Boa sorte!*" :heart:
+"*Don't give up, no matter how tough it gets, it's all worth it in the end. You've chosen a challenging, but extremely rewarding journey. Learning to code may seem intimidating, but it's a valuable skill that can be applied to many areas of life and enable you to accomplish amazing things. Always remember to keep up the persistence and passion for what you're doing. Be open to new ideas and continuous learning. Over time, you'll become more confident and skilled, and see all your hard work pay off. Good luck!*" :heart:
